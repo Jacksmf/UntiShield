@@ -1,0 +1,7 @@
+name: UntiShield
+version: '${version}'
+main: com.untiplugin.untishield.Main
+author: Jacksmf
+website: 'https://www.untiplugin.com/projects/untishield'
+api-version: '1.21'
+load: STARTUP
